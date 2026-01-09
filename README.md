@@ -2,6 +2,9 @@
 
 A lightweight Python script that displays a colorful confetti animation directly in your terminal.
 
+![Demo GIF](demo.gif)
+
+
 ## Features
 - Uses ANSI escape codes for color and cursor control
 - Adapts to terminal size automatically
